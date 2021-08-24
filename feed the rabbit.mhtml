@@ -1,0 +1,45 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5502/
+Subject: 
+Date: Tue, 24 Aug 2021 09:56:37 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Dn8XoSkAszZ4WP7GnZSjEw47dW83l0YFzFu0LS4Mjk----"
+
+
+------MultipartBoundary--Dn8XoSkAszZ4WP7GnZSjEw47dW83l0YFzFu0LS4Mjk----
+Content-Type: text/html
+Content-ID: <frame-1785F4D490EF5BA66B95CFC438E2190F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5502/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+   =20
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1:550=
+2/style.css">
+   =20
+
+       =20
+  </head>
+  <body>
+   =20
+ =20
+
+<!-- Code injected by live-server -->
+<main><canvas id=3D"defaultCanvas0" class=3D"p5Canvas" width=3D"400" height=
+=3D"400" style=3D"width: 400px; height: 400px;"></canvas></main></body></ht=
+ml>
+------MultipartBoundary--Dn8XoSkAszZ4WP7GnZSjEw47dW83l0YFzFu0LS4Mjk----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5502/style.css
+
+@charset "utf-8";
+
+html, body { margin: 0px; padding: 0px; }
+
+canvas { display: block; }
+------MultipartBoundary--Dn8XoSkAszZ4WP7GnZSjEw47dW83l0YFzFu0LS4Mjk------
